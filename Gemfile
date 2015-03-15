@@ -38,3 +38,4 @@ gem 'jquery-rails'
 # gem 'debugger'
 gem 'geocoder'
 gem "twitter-bootstrap-rails"
+gem 'pry'
